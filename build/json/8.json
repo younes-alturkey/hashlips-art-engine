@@ -1,0 +1,39 @@
+{
+  "name": "Cool Anubis #8",
+  "description": "The cool Anubis collection",
+  "image": "ipfs://QmeYwTevmxSurfEVY8Y6nTPZE7uPfhE8V67wL9MLVyYdrv/8.png",
+  "dna": "794b8a4ea3e5722c58edee670bf34389f5748114",
+  "edition": 8,
+  "date": 1654978978112,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red Magic"
+    },
+    {
+      "trait_type": "Body",
+      "value": "5"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "4"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "3_r"
+    },
+    {
+      "trait_type": "Mouths",
+      "value": "2"
+    },
+    {
+      "trait_type": "Facial",
+      "value": "1"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "2"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

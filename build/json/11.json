@@ -1,0 +1,39 @@
+{
+  "name": "Cool Anubis #11",
+  "description": "The cool Anubis collection",
+  "image": "ipfs://QmeYwTevmxSurfEVY8Y6nTPZE7uPfhE8V67wL9MLVyYdrv/11.png",
+  "dna": "e8d7a87a573082e99b33c4074c88e6e74d9cbec0",
+  "edition": 11,
+  "date": 1654978980210,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "3"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "3_r"
+    },
+    {
+      "trait_type": "Mouths",
+      "value": "2"
+    },
+    {
+      "trait_type": "Facial",
+      "value": "7"
+    },
+    {
+      "trait_type": "Outfits",
+      "value": "7"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
